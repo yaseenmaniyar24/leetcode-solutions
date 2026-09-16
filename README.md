@@ -6,8 +6,8 @@ My solutions to LeetCode problems, organized by difficulty and problem.
 
 | Difficulty | Problems |
 | ---------- | -------- |
-| 🟢 Easy    | 0        |
-| 🟡 Medium  | 0        |
+| 🟢 Easy    | 12       |
+| 🟡 Medium  | 4        |
 | 🔴 Hard    | 0        |
 
 ## 🗂️ Structure
